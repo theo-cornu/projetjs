@@ -1,9 +1,9 @@
 # Projet Client-serveur
 ## Technologies Utilisées
 
-### EC2
-
 ### AWS
+
+#### EC2
 
 #### Lambda
 
