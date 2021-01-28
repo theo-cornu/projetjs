@@ -1,5 +1,5 @@
 # Projet Client-serveur
-## Technologies Utilisées
+## Technologies utilisées
 
 ### AWS
 
